@@ -1,0 +1,4 @@
+host: eu-cdbr-west-02.cleardb.net
+port: 3306
+username:  bbff78fde36256
+password: fc930970
